@@ -164,3 +164,13 @@ cython_debug/
 
 # data
 data/
+
+# pytorch lightning
+lightning/
+
+# solutions these are stored in a separate repository, but convenient to have in the same project for the instructor
+solutions/
+solutions-students/
+
+# Mac dsstore
+.DS_Store
