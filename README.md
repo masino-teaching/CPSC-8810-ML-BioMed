@@ -23,3 +23,8 @@ of healthcare delivery science for machine learning model deployment will also b
 presented methods and their biomedical applications will be illustrated using the Python programming 
 language.
 
+## Additional Course Materials
+If you are interested in using the materials for your course and would like access to the lecture slides and/or solutions 
+for the practicums and assignments, please contact me. My contact information is available at:
+https://amasino.people.clemson.edu/
+
